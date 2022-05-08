@@ -1,0 +1,18 @@
+
+
+
+
+div#basic-navbar-nav {
+    display: flex !important;
+    justify-content: end;
+   
+}
+
+.navbar-collapse {
+    flex-basis: 0rem !important;
+ 
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: row !important;
+}

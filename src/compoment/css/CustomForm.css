@@ -1,0 +1,11 @@
+.FormContent {
+    display: flex;
+    flex-flow: column;
+    gap: 1rem;
+    /* align-content: flex-start; */
+}
+span.MuiRating-root.MuiRating-sizeMedium.css-iljtu2-MuiRating-root {
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+}
