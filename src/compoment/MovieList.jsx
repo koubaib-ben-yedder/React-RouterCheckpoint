@@ -14,7 +14,7 @@ function MovieList({data,filter}) {
   return (
 
    
-    <div className='MovieLists'>
+    <div className='MovieListss'>
         <Table striped bordered hover>
             <thead>
                 <tr>

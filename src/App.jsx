@@ -27,7 +27,7 @@ function App() {
       <Routes>
 
 
-        <Route path="/AppContent" exact  element={<Form    />} /> 
+        <Route path="/" exact  element={<Form    />} /> 
         <Route  path ="/Video" exatc element={<Video />}/>
         <Route path ="/Description" exact element={<Description  />} />
         <Route path ="/MovieCard" exact element={<MovieCarsLink />} />
