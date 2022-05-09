@@ -2,6 +2,7 @@ import React ,{useState}from 'react'
 import MovieCard from "./MovieCard"
 import MovieList from './MovieList';
 import {useParams} from "react-router-dom"
+import "../compoment/css/CustomForm.css"
 const Form = () => {
 
 
@@ -72,7 +73,7 @@ const Form = () => {
 
  
   return (
-    <div>
+    <div className='AppContent'>
 
           
         <input type="text" name="description" placeholder="description" onChange={(e)=>{change(e)}}/>

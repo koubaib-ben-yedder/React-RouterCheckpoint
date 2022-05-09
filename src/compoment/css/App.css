@@ -1,29 +1,4 @@
-.AppContent {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    gap: 5rem;
-    margin-top: 5rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
 
-.MovieCard {
-    display: flex;
-    flex-wrap: wrap;
-    /* grid-template-columns: 20rem 20rem 20rem; */
-    /* grid-template-rows: 20rem 20rem 20rem; */
-    gap: 5rem;
-    height: fit-content;
-    margin: 0rem auto;
-    justify-content: center;
-}
-.MovieList {
-
-    display: flex;
-    justify-content: center;
-
-}
 button.btn.btn-primary {
     color: white;
 }

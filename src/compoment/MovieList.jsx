@@ -19,8 +19,8 @@ function MovieList({data,filter}) {
             <thead>
                 <tr>
                 <th>title</th>
-                <th>description</th>
                 <th>image</th>
+                <th>description</th>
                 <th>rating</th>
                 </tr>
             </thead>
